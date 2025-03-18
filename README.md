@@ -1,7 +1,5 @@
 # Israel/Palestine in the News: New York Times and The Guardian Headlines since October 7th
 
-This project investigates how The New York Times (NYT) and The Guardian frame the Israel-Palestine conflict through their headlines.
-
 # Abstract
 This project investigates how The New York Times (NYT) and The Guardian frame the Israel-Palestine conflict through their headlines. While NYT is often perceived as pro-Israel, The Guardian takes a more left-leaning approach with a less explicitly defined stance. Through sentiment analysis, thematic clustering, and comparative language analysis, we examine differences in coverage, including the portrayal of key political figures, humanitarian crises, and military actions.
 
